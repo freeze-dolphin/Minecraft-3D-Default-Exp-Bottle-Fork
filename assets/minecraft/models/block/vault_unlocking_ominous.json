@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/vault",
+	"parent":"block/vault_ominous",
 	"textures":{
 		"bottom":"block/vault_bottom_ominous",
 		"front":"block/vault_front_ejecting_ominous",
